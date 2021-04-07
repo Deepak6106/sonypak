@@ -1,0 +1,70 @@
+#EXTM3U 
+#EXTINF:-1 tvg-id="" tvg-name="Netflix -Bollywood UHD" tvg-logo="" group-title="NET FLIX LIVE",Netflix -Bollywood UHD
+http://sonyiptv.net:8080/prasad123/00000/27413
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 1" tvg-logo="https://en.m.wikipedia.org/wiki/Netflix#/media/File%3ANetflix_-_English.png" group-title="NET FLIX LIVE",Netflix Action 1
+http://sonyiptv.net:8080/prasad123/00000/27414
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Action 2 HD" tvg-logo="" group-title="NET FLIX LIVE",Netflix Action 2 HD
+http://sonyiptv.net:8080/prasad123/00000/27415
+#EXTINF:-1 tvg-id="" tvg-name=" Netflix - Marvel  HD" tvg-logo="" group-title="NET FLIX LIVE", Netflix - Marvel  HD
+http://sonyiptv.net:8080/prasad123/00000/27416
+#EXTINF:-1 tvg-id="" tvg-name="Netflix - Sci-Fi HD" tvg-logo="" group-title="NET FLIX LIVE",Netflix - Sci-Fi HD
+http://sonyiptv.net:8080/prasad123/00000/27417
+#EXTINF:-1 tvg-id="" tvg-name=" Netflix - Comedy" tvg-logo="" group-title="NET FLIX LIVE", Netflix - Comedy
+http://sonyiptv.net:8080/prasad123/00000/27418
+#EXTINF:-1 tvg-id="" tvg-name="Netflix - Kids HD" tvg-logo="" group-title="NET FLIX LIVE",Netflix - Kids HD
+http://sonyiptv.net:8080/prasad123/00000/27420
+#EXTINF:-1 tvg-id="" tvg-name="FILM BOX 4k" tvg-logo="" group-title="NET FLIX LIVE",FILM BOX 4k
+http://sonyiptv.net:8080/prasad123/00000/43480
+#EXTINF:-1 tvg-id="" tvg-name="Netflix Hollywood" tvg-logo="" group-title="NET FLIX LIVE",Netflix Hollywood
+http://sonyiptv.net:8080/prasad123/00000/84141
+#EXTINF:-1 tvg-id="" tvg-name="Sky Cinema Disney HD*" tvg-logo="" group-title="NET FLIX LIVE",Sky Cinema Disney HD*
+http://sonyiptv.net:8080/prasad123/00000/86102
+
+
+#EXTM3U 
+#EXTINF:-1 tvg-ID="" tvg-name="===== SPORTS GENERAL ====="  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",===== SPORTS GENERAL =====
+http://sansat.net:25461/02028689331214/02028689331214/93720
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: D SPORTS HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: D SPORTS HD
+http://sansat.net:25461/02028689331214/02028689331214/93721
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: DD SPORTS"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: DD SPORTS
+http://sansat.net:25461/02028689331214/02028689331214/93722
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: SONY SIX HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: SONY SIX HD
+http://sansat.net:25461/02028689331214/02028689331214/93723
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD ENGLISH"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: STAR SPORTS 1 HD ENGLISH
+http://sansat.net:25461/02028689331214/02028689331214/93724
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 1 HD HINDI"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: STAR SPORTS 1 HD HINDI
+http://sansat.net:25461/02028689331214/02028689331214/93725
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 2 HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: STAR SPORTS 2 HD
+http://sansat.net:25461/02028689331214/02028689331214/93726
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS 3"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: STAR SPORTS 3
+http://sansat.net:25461/02028689331214/02028689331214/93727
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS FIRST"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: STAR SPORTS FIRST
+http://sansat.net:25461/02028689331214/02028689331214/93728
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS SELECT 1 HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: STAR SPORTS SELECT 1 HD
+http://sansat.net:25461/02028689331214/02028689331214/93729
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS SELECT 2 HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: STAR SPORTS SELECT 2 HD
+http://sansat.net:25461/02028689331214/02028689331214/93730
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: STAR SPORTS TAMIL"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: STAR SPORTS TAMIL
+http://sansat.net:25461/02028689331214/02028689331214/93731
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 1 HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: TEN 1 HD
+http://sansat.net:25461/02028689331214/02028689331214/93732
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 2 HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: TEN 2 HD
+http://sansat.net:25461/02028689331214/02028689331214/93733
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: TEN 3 HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: TEN 3 HD
+http://sansat.net:25461/02028689331214/02028689331214/93734
+#EXTINF:-1 tvg-ID="" tvg-name="SPORTS: WILLOW CRICKET HD"  tvg-logo="https://od.lk/s/MTBfMTI4OTM0NDg0Xw/Screenshot_20210304-091904_Logopit%20Plus.jpg" group-title="📺 PRASAD/SPORTS",SPORTS: WILLOW CRICKET HD
+http://sansat.net:25461/02028689331214/02028689331214/93735
+
+
+
+
+
+
+
+
+
+
+
+
+
+
